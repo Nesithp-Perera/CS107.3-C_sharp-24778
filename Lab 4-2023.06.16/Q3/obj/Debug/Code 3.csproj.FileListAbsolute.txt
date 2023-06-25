@@ -1,0 +1,8 @@
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\bin\Debug\Code 3.exe.config
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\bin\Debug\Code 3.exe
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\bin\Debug\Code 3.pdb
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\obj\Debug\Code 3.csproj.AssemblyReference.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\obj\Debug\Code 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\obj\Debug\Code 3.csproj.CoreCompileInputs.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\obj\Debug\Code 3.exe
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 4\Code 3\obj\Debug\Code 3.pdb

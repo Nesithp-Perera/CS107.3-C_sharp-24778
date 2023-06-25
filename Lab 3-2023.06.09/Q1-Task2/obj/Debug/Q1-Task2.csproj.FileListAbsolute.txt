@@ -1,0 +1,8 @@
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\obj\Debug\Q1-Task2.csproj.AssemblyReference.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\obj\Debug\Q1-Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\obj\Debug\Q1-Task2.csproj.CoreCompileInputs.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\bin\Debug\Q1-Task2.exe.config
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\bin\Debug\Q1-Task2.exe
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\bin\Debug\Q1-Task2.pdb
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\obj\Debug\Q1-Task2.exe
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Lab 3\Q1-Task2\obj\Debug\Q1-Task2.pdb
