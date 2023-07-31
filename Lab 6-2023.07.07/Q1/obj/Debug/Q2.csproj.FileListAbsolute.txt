@@ -1,0 +1,8 @@
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\bin\Debug\Q2.exe.config
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\bin\Debug\Q2.exe
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\bin\Debug\Q2.pdb
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\obj\Debug\Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\obj\Debug\Q2.exe
+C:\Users\nesit\Desktop\Degree\Year1 semester2\Codes\Object oriented programming with C#\Labs\Lab 5\Q2\obj\Debug\Q2.pdb
